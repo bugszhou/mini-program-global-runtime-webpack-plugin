@@ -1,0 +1,25 @@
+{
+  "name": "mini-program-global-runtime-webpack-plugin",
+  "version": "0.0.1",
+  "description": "生成小程序全局变量",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugszhou/mini-program-global-runtime-webpack-plugin.git"
+  },
+  "keywords": [
+    "wechat",
+    "alipay",
+    "mini",
+    "program"
+  ],
+  "author": "bugszhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bugszhou/mini-program-global-runtime-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/bugszhou/mini-program-global-runtime-webpack-plugin#readme"
+}
